@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button_save_entry" type="id"/>
+    <item name="entry_charge" type="id"/>
+    <item name="head_date" type="id"/>
+    <item name="entry_date" type="id" />
+    <item name="head_name" type="id" />
+    <item name="entry_name" type="id" />
+    <item name="head_charge" type="id" />
+    <item name="head_comment" type="id" />
+    <item name="entry_comment" type="id" />
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shikhar3-ExpBook</string>
+    <string name="button_save_entry">Save\n</string>
+    <string name="head_date">Date:\n</string>
+    <string name="head_name">Name:</string>
+    <string name="head_charge">Charge:</string>
+    <string name="head_comment">Comment:\n</string>
+    <string name="menu_edit_entry" >Edit</string>
+    <string name="head_total">Subtotal: </string>
+    <string name="head_list" />
+    <string name="subtotal"></string>
+</resources>
